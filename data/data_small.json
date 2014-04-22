@@ -1,0 +1,1565 @@
+{
+  "splash": {
+    "image": "splash.png"
+  },
+  "team_0001": {
+    "id": "0001",
+    "name": "New Mexico Oracles",
+    "players": [
+      "caviar://player_0001",
+      "caviar://player_0002",
+      "caviar://player_0003",
+      "caviar://player_0004",
+      "caviar://player_0005",
+      "caviar://player_0006",
+      "caviar://player_0007",
+      "caviar://player_0008",
+      "caviar://player_0009",
+      "caviar://player_0010",
+      "caviar://player_0011",
+      "caviar://player_0012",
+      "caviar://player_0013",
+      "caviar://player_0014",
+      "caviar://player_0015"
+    ]
+  },
+  "team_0002": {
+    "id": "0002",
+    "name": "Arkansas Enchanters",
+    "players": [
+      "caviar://player_0016",
+      "caviar://player_0017",
+      "caviar://player_0018",
+      "caviar://player_0019",
+      "caviar://player_0020",
+      "caviar://player_0021",
+      "caviar://player_0022",
+      "caviar://player_0023",
+      "caviar://player_0024",
+      "caviar://player_0025",
+      "caviar://player_0026",
+      "caviar://player_0027",
+      "caviar://player_0028",
+      "caviar://player_0029",
+      "caviar://player_0030"
+    ]
+  },
+  "team_0003": {
+    "id": "0003",
+    "name": "New Hampshire Banshees",
+    "players": [
+      "caviar://player_0031",
+      "caviar://player_0032",
+      "caviar://player_0033",
+      "caviar://player_0034",
+      "caviar://player_0035",
+      "caviar://player_0036",
+      "caviar://player_0037",
+      "caviar://player_0038",
+      "caviar://player_0039",
+      "caviar://player_0040",
+      "caviar://player_0041",
+      "caviar://player_0042",
+      "caviar://player_0043",
+      "caviar://player_0044",
+      "caviar://player_0045"
+    ]
+  },
+  "team_0004": {
+    "id": "0004",
+    "name": "Oklahoma Lycanthropes",
+    "players": [
+      "caviar://player_0046",
+      "caviar://player_0047",
+      "caviar://player_0048",
+      "caviar://player_0049",
+      "caviar://player_0050",
+      "caviar://player_0051",
+      "caviar://player_0052",
+      "caviar://player_0053",
+      "caviar://player_0054",
+      "caviar://player_0055",
+      "caviar://player_0056",
+      "caviar://player_0057",
+      "caviar://player_0058",
+      "caviar://player_0059",
+      "caviar://player_0060"
+    ]
+  },
+  "team_0005": {
+    "id": "0005",
+    "name": "Colorado Wolves",
+    "players": [
+      "caviar://player_0061",
+      "caviar://player_0062",
+      "caviar://player_0063",
+      "caviar://player_0064",
+      "caviar://player_0065",
+      "caviar://player_0066",
+      "caviar://player_0067",
+      "caviar://player_0068",
+      "caviar://player_0069",
+      "caviar://player_0070",
+      "caviar://player_0071",
+      "caviar://player_0072",
+      "caviar://player_0073",
+      "caviar://player_0074",
+      "caviar://player_0075"
+    ]
+  },
+  "team_0006": {
+    "id": "0006",
+    "name": "Mississippi Lions",
+    "players": [
+      "caviar://player_0076",
+      "caviar://player_0077",
+      "caviar://player_0078",
+      "caviar://player_0079",
+      "caviar://player_0080",
+      "caviar://player_0081",
+      "caviar://player_0082",
+      "caviar://player_0083",
+      "caviar://player_0084",
+      "caviar://player_0085",
+      "caviar://player_0086",
+      "caviar://player_0087",
+      "caviar://player_0088",
+      "caviar://player_0089",
+      "caviar://player_0090"
+    ]
+  },
+  "team_0007": {
+    "id": "0007",
+    "name": "South Carolina Wolves",
+    "players": [
+      "caviar://player_0091",
+      "caviar://player_0092",
+      "caviar://player_0093",
+      "caviar://player_0094",
+      "caviar://player_0095",
+      "caviar://player_0096",
+      "caviar://player_0097",
+      "caviar://player_0098",
+      "caviar://player_0099",
+      "caviar://player_0100",
+      "caviar://player_0101",
+      "caviar://player_0102",
+      "caviar://player_0103",
+      "caviar://player_0104",
+      "caviar://player_0105"
+    ]
+  },
+  "team_0008": {
+    "id": "0008",
+    "name": "Maryland Zebras",
+    "players": [
+      "caviar://player_0106",
+      "caviar://player_0107",
+      "caviar://player_0108",
+      "caviar://player_0109",
+      "caviar://player_0110",
+      "caviar://player_0111",
+      "caviar://player_0112",
+      "caviar://player_0113",
+      "caviar://player_0114",
+      "caviar://player_0115",
+      "caviar://player_0116",
+      "caviar://player_0117",
+      "caviar://player_0118",
+      "caviar://player_0119",
+      "caviar://player_0120"
+    ]
+  },
+  "team_0009": {
+    "id": "0009",
+    "name": "Oklahoma Worshipers",
+    "players": [
+      "caviar://player_0121",
+      "caviar://player_0122",
+      "caviar://player_0123",
+      "caviar://player_0124",
+      "caviar://player_0125",
+      "caviar://player_0126",
+      "caviar://player_0127",
+      "caviar://player_0128",
+      "caviar://player_0129",
+      "caviar://player_0130",
+      "caviar://player_0131",
+      "caviar://player_0132",
+      "caviar://player_0133",
+      "caviar://player_0134",
+      "caviar://player_0135"
+    ]
+  },
+  "team_0010": {
+    "id": "0010",
+    "name": "Hawaii Cattle",
+    "players": [
+      "caviar://player_0136",
+      "caviar://player_0137",
+      "caviar://player_0138",
+      "caviar://player_0139",
+      "caviar://player_0140",
+      "caviar://player_0141",
+      "caviar://player_0142",
+      "caviar://player_0143",
+      "caviar://player_0144",
+      "caviar://player_0145",
+      "caviar://player_0146",
+      "caviar://player_0147",
+      "caviar://player_0148",
+      "caviar://player_0149",
+      "caviar://player_0150"
+    ]
+  },
+  "player_0001": {
+    "id": "0001",
+    "first_name": "Ellen",
+    "last_name": "Schumm",
+    "shots": "131",
+    "goals": "52",
+    "player_number": "21",
+    "team": "caviar://team_0001"
+  },
+  "player_0002": {
+    "id": "0002",
+    "first_name": "Francisca",
+    "last_name": "Waters",
+    "shots": "238",
+    "goals": "78",
+    "player_number": "82",
+    "team": "caviar://team_0001"
+  },
+  "player_0003": {
+    "id": "0003",
+    "first_name": "Renee",
+    "last_name": "Hoeger",
+    "shots": "179",
+    "goals": "58",
+    "player_number": "93",
+    "team": "caviar://team_0001"
+  },
+  "player_0004": {
+    "id": "0004",
+    "first_name": "Gracie",
+    "last_name": "Stracke",
+    "shots": "466",
+    "goals": "76",
+    "player_number": "89",
+    "team": "caviar://team_0001"
+  },
+  "player_0005": {
+    "id": "0005",
+    "first_name": "Danika",
+    "last_name": "Mueller",
+    "shots": "382",
+    "goals": "05",
+    "player_number": "56",
+    "team": "caviar://team_0001"
+  },
+  "player_0006": {
+    "id": "0006",
+    "first_name": "Lisandro",
+    "last_name": "Fritsch",
+    "shots": "627",
+    "goals": "31",
+    "player_number": "82",
+    "team": "caviar://team_0001"
+  },
+  "player_0007": {
+    "id": "0007",
+    "first_name": "Adelle",
+    "last_name": "Hackett",
+    "shots": "245",
+    "goals": "75",
+    "player_number": "91",
+    "team": "caviar://team_0001"
+  },
+  "player_0008": {
+    "id": "0008",
+    "first_name": "Ricky",
+    "last_name": "Bergstrom",
+    "shots": "465",
+    "goals": "30",
+    "player_number": "85",
+    "team": "caviar://team_0001"
+  },
+  "player_0009": {
+    "id": "0009",
+    "first_name": "Pietro",
+    "last_name": "Bayer",
+    "shots": "153",
+    "goals": "09",
+    "player_number": "91",
+    "team": "caviar://team_0001"
+  },
+  "player_0010": {
+    "id": "0010",
+    "first_name": "Enola",
+    "last_name": "Cole",
+    "shots": "250",
+    "goals": "46",
+    "player_number": "42",
+    "team": "caviar://team_0001"
+  },
+  "player_0011": {
+    "id": "0011",
+    "first_name": "Maye",
+    "last_name": "Hamill",
+    "shots": "900",
+    "goals": "99",
+    "player_number": "91",
+    "team": "caviar://team_0001"
+  },
+  "player_0012": {
+    "id": "0012",
+    "first_name": "Hellen",
+    "last_name": "Dietrich",
+    "shots": "568",
+    "goals": "93",
+    "player_number": "18",
+    "team": "caviar://team_0001"
+  },
+  "player_0013": {
+    "id": "0013",
+    "first_name": "Ariel",
+    "last_name": "Cummerata",
+    "shots": "431",
+    "goals": "28",
+    "player_number": "74",
+    "team": "caviar://team_0001"
+  },
+  "player_0014": {
+    "id": "0014",
+    "first_name": "Jairo",
+    "last_name": "Crist",
+    "shots": "318",
+    "goals": "39",
+    "player_number": "94",
+    "team": "caviar://team_0001"
+  },
+  "player_0015": {
+    "id": "0015",
+    "first_name": "Jennyfer",
+    "last_name": "Hagenes",
+    "shots": "037",
+    "goals": "74",
+    "player_number": "10",
+    "team": "caviar://team_0001"
+  },
+  "player_0016": {
+    "id": "0016",
+    "first_name": "Cortney",
+    "last_name": "Kuhlman",
+    "shots": "223",
+    "goals": "18",
+    "player_number": "09",
+    "team": "caviar://team_0002"
+  },
+  "player_0017": {
+    "id": "0017",
+    "first_name": "Fletcher",
+    "last_name": "Nikolaus",
+    "shots": "133",
+    "goals": "01",
+    "player_number": "46",
+    "team": "caviar://team_0002"
+  },
+  "player_0018": {
+    "id": "0018",
+    "first_name": "Ewell",
+    "last_name": "Rath",
+    "shots": "834",
+    "goals": "30",
+    "player_number": "10",
+    "team": "caviar://team_0002"
+  },
+  "player_0019": {
+    "id": "0019",
+    "first_name": "Antoinette",
+    "last_name": "Herman",
+    "shots": "348",
+    "goals": "96",
+    "player_number": "16",
+    "team": "caviar://team_0002"
+  },
+  "player_0020": {
+    "id": "0020",
+    "first_name": "Mercedes",
+    "last_name": "O'Connell",
+    "shots": "788",
+    "goals": "31",
+    "player_number": "74",
+    "team": "caviar://team_0002"
+  },
+  "player_0021": {
+    "id": "0021",
+    "first_name": "Denis",
+    "last_name": "Hermiston",
+    "shots": "783",
+    "goals": "23",
+    "player_number": "16",
+    "team": "caviar://team_0002"
+  },
+  "player_0022": {
+    "id": "0022",
+    "first_name": "Emilio",
+    "last_name": "Jakubowski",
+    "shots": "035",
+    "goals": "44",
+    "player_number": "55",
+    "team": "caviar://team_0002"
+  },
+  "player_0023": {
+    "id": "0023",
+    "first_name": "Dominique",
+    "last_name": "Jenkins",
+    "shots": "847",
+    "goals": "61",
+    "player_number": "18",
+    "team": "caviar://team_0002"
+  },
+  "player_0024": {
+    "id": "0024",
+    "first_name": "Garfield",
+    "last_name": "Trantow",
+    "shots": "452",
+    "goals": "90",
+    "player_number": "23",
+    "team": "caviar://team_0002"
+  },
+  "player_0025": {
+    "id": "0025",
+    "first_name": "Armand",
+    "last_name": "Boehm",
+    "shots": "148",
+    "goals": "91",
+    "player_number": "50",
+    "team": "caviar://team_0002"
+  },
+  "player_0026": {
+    "id": "0026",
+    "first_name": "Edgar",
+    "last_name": "Abernathy",
+    "shots": "295",
+    "goals": "90",
+    "player_number": "87",
+    "team": "caviar://team_0002"
+  },
+  "player_0027": {
+    "id": "0027",
+    "first_name": "Demetrius",
+    "last_name": "Abshire",
+    "shots": "465",
+    "goals": "83",
+    "player_number": "40",
+    "team": "caviar://team_0002"
+  },
+  "player_0028": {
+    "id": "0028",
+    "first_name": "Halle",
+    "last_name": "Watsica",
+    "shots": "683",
+    "goals": "20",
+    "player_number": "38",
+    "team": "caviar://team_0002"
+  },
+  "player_0029": {
+    "id": "0029",
+    "first_name": "Deon",
+    "last_name": "Crooks",
+    "shots": "900",
+    "goals": "69",
+    "player_number": "23",
+    "team": "caviar://team_0002"
+  },
+  "player_0030": {
+    "id": "0030",
+    "first_name": "Ryan",
+    "last_name": "Johnson",
+    "shots": "864",
+    "goals": "34",
+    "player_number": "88",
+    "team": "caviar://team_0002"
+  },
+  "player_0031": {
+    "id": "0031",
+    "first_name": "Tiara",
+    "last_name": "Pouros",
+    "shots": "016",
+    "goals": "20",
+    "player_number": "73",
+    "team": "caviar://team_0003"
+  },
+  "player_0032": {
+    "id": "0032",
+    "first_name": "Emery",
+    "last_name": "Legros",
+    "shots": "631",
+    "goals": "88",
+    "player_number": "66",
+    "team": "caviar://team_0003"
+  },
+  "player_0033": {
+    "id": "0033",
+    "first_name": "Mireya",
+    "last_name": "O'Hara",
+    "shots": "742",
+    "goals": "60",
+    "player_number": "06",
+    "team": "caviar://team_0003"
+  },
+  "player_0034": {
+    "id": "0034",
+    "first_name": "Geraldine",
+    "last_name": "Nader",
+    "shots": "924",
+    "goals": "07",
+    "player_number": "62",
+    "team": "caviar://team_0003"
+  },
+  "player_0035": {
+    "id": "0035",
+    "first_name": "Lukas",
+    "last_name": "Corkery",
+    "shots": "455",
+    "goals": "50",
+    "player_number": "63",
+    "team": "caviar://team_0003"
+  },
+  "player_0036": {
+    "id": "0036",
+    "first_name": "Aracely",
+    "last_name": "Stroman",
+    "shots": "451",
+    "goals": "58",
+    "player_number": "26",
+    "team": "caviar://team_0003"
+  },
+  "player_0037": {
+    "id": "0037",
+    "first_name": "Keara",
+    "last_name": "Kulas",
+    "shots": "813",
+    "goals": "52",
+    "player_number": "30",
+    "team": "caviar://team_0003"
+  },
+  "player_0038": {
+    "id": "0038",
+    "first_name": "Shana",
+    "last_name": "Grant",
+    "shots": "476",
+    "goals": "48",
+    "player_number": "33",
+    "team": "caviar://team_0003"
+  },
+  "player_0039": {
+    "id": "0039",
+    "first_name": "Julio",
+    "last_name": "Hamill",
+    "shots": "263",
+    "goals": "33",
+    "player_number": "21",
+    "team": "caviar://team_0003"
+  },
+  "player_0040": {
+    "id": "0040",
+    "first_name": "Amiya",
+    "last_name": "Dickens",
+    "shots": "814",
+    "goals": "05",
+    "player_number": "58",
+    "team": "caviar://team_0003"
+  },
+  "player_0041": {
+    "id": "0041",
+    "first_name": "Royce",
+    "last_name": "Stracke",
+    "shots": "650",
+    "goals": "55",
+    "player_number": "93",
+    "team": "caviar://team_0003"
+  },
+  "player_0042": {
+    "id": "0042",
+    "first_name": "Annamae",
+    "last_name": "Jaskolski",
+    "shots": "080",
+    "goals": "63",
+    "player_number": "04",
+    "team": "caviar://team_0003"
+  },
+  "player_0043": {
+    "id": "0043",
+    "first_name": "Brady",
+    "last_name": "Zulauf",
+    "shots": "564",
+    "goals": "05",
+    "player_number": "70",
+    "team": "caviar://team_0003"
+  },
+  "player_0044": {
+    "id": "0044",
+    "first_name": "Orland",
+    "last_name": "Pfeffer",
+    "shots": "446",
+    "goals": "32",
+    "player_number": "97",
+    "team": "caviar://team_0003"
+  },
+  "player_0045": {
+    "id": "0045",
+    "first_name": "Vance",
+    "last_name": "Harvey",
+    "shots": "982",
+    "goals": "89",
+    "player_number": "34",
+    "team": "caviar://team_0003"
+  },
+  "player_0046": {
+    "id": "0046",
+    "first_name": "Maximillia",
+    "last_name": "Harvey",
+    "shots": "511",
+    "goals": "36",
+    "player_number": "31",
+    "team": "caviar://team_0004"
+  },
+  "player_0047": {
+    "id": "0047",
+    "first_name": "Angelo",
+    "last_name": "Prosacco",
+    "shots": "787",
+    "goals": "78",
+    "player_number": "89",
+    "team": "caviar://team_0004"
+  },
+  "player_0048": {
+    "id": "0048",
+    "first_name": "Timmothy",
+    "last_name": "Ruecker",
+    "shots": "036",
+    "goals": "38",
+    "player_number": "80",
+    "team": "caviar://team_0004"
+  },
+  "player_0049": {
+    "id": "0049",
+    "first_name": "Dulce",
+    "last_name": "Dibbert",
+    "shots": "654",
+    "goals": "97",
+    "player_number": "29",
+    "team": "caviar://team_0004"
+  },
+  "player_0050": {
+    "id": "0050",
+    "first_name": "Lela",
+    "last_name": "Baumbach",
+    "shots": "620",
+    "goals": "15",
+    "player_number": "08",
+    "team": "caviar://team_0004"
+  },
+  "player_0051": {
+    "id": "0051",
+    "first_name": "Hazel",
+    "last_name": "Sawayn",
+    "shots": "182",
+    "goals": "03",
+    "player_number": "32",
+    "team": "caviar://team_0004"
+  },
+  "player_0052": {
+    "id": "0052",
+    "first_name": "Armand",
+    "last_name": "McGlynn",
+    "shots": "060",
+    "goals": "15",
+    "player_number": "71",
+    "team": "caviar://team_0004"
+  },
+  "player_0053": {
+    "id": "0053",
+    "first_name": "Leif",
+    "last_name": "Parker",
+    "shots": "051",
+    "goals": "04",
+    "player_number": "75",
+    "team": "caviar://team_0004"
+  },
+  "player_0054": {
+    "id": "0054",
+    "first_name": "Jayde",
+    "last_name": "Konopelski",
+    "shots": "382",
+    "goals": "20",
+    "player_number": "29",
+    "team": "caviar://team_0004"
+  },
+  "player_0055": {
+    "id": "0055",
+    "first_name": "Talon",
+    "last_name": "Champlin",
+    "shots": "607",
+    "goals": "67",
+    "player_number": "54",
+    "team": "caviar://team_0004"
+  },
+  "player_0056": {
+    "id": "0056",
+    "first_name": "Olga",
+    "last_name": "Steuber",
+    "shots": "206",
+    "goals": "85",
+    "player_number": "97",
+    "team": "caviar://team_0004"
+  },
+  "player_0057": {
+    "id": "0057",
+    "first_name": "Cassidy",
+    "last_name": "Kreiger",
+    "shots": "983",
+    "goals": "61",
+    "player_number": "35",
+    "team": "caviar://team_0004"
+  },
+  "player_0058": {
+    "id": "0058",
+    "first_name": "Ludie",
+    "last_name": "Homenick",
+    "shots": "254",
+    "goals": "95",
+    "player_number": "11",
+    "team": "caviar://team_0004"
+  },
+  "player_0059": {
+    "id": "0059",
+    "first_name": "Dwight",
+    "last_name": "Shanahan",
+    "shots": "852",
+    "goals": "28",
+    "player_number": "85",
+    "team": "caviar://team_0004"
+  },
+  "player_0060": {
+    "id": "0060",
+    "first_name": "Jeremie",
+    "last_name": "Pollich",
+    "shots": "245",
+    "goals": "89",
+    "player_number": "54",
+    "team": "caviar://team_0004"
+  },
+  "player_0061": {
+    "id": "0061",
+    "first_name": "Stefanie",
+    "last_name": "Pagac",
+    "shots": "360",
+    "goals": "04",
+    "player_number": "84",
+    "team": "caviar://team_0005"
+  },
+  "player_0062": {
+    "id": "0062",
+    "first_name": "Arnold",
+    "last_name": "Frami",
+    "shots": "593",
+    "goals": "85",
+    "player_number": "98",
+    "team": "caviar://team_0005"
+  },
+  "player_0063": {
+    "id": "0063",
+    "first_name": "Beau",
+    "last_name": "Schiller",
+    "shots": "084",
+    "goals": "84",
+    "player_number": "25",
+    "team": "caviar://team_0005"
+  },
+  "player_0064": {
+    "id": "0064",
+    "first_name": "Meaghan",
+    "last_name": "Bednar",
+    "shots": "621",
+    "goals": "49",
+    "player_number": "41",
+    "team": "caviar://team_0005"
+  },
+  "player_0065": {
+    "id": "0065",
+    "first_name": "Alfreda",
+    "last_name": "Wuckert",
+    "shots": "848",
+    "goals": "47",
+    "player_number": "89",
+    "team": "caviar://team_0005"
+  },
+  "player_0066": {
+    "id": "0066",
+    "first_name": "Tyree",
+    "last_name": "Sawayn",
+    "shots": "492",
+    "goals": "99",
+    "player_number": "03",
+    "team": "caviar://team_0005"
+  },
+  "player_0067": {
+    "id": "0067",
+    "first_name": "Cheyanne",
+    "last_name": "Beier",
+    "shots": "685",
+    "goals": "23",
+    "player_number": "39",
+    "team": "caviar://team_0005"
+  },
+  "player_0068": {
+    "id": "0068",
+    "first_name": "Damian",
+    "last_name": "Brown",
+    "shots": "114",
+    "goals": "17",
+    "player_number": "50",
+    "team": "caviar://team_0005"
+  },
+  "player_0069": {
+    "id": "0069",
+    "first_name": "Otis",
+    "last_name": "Fahey",
+    "shots": "453",
+    "goals": "92",
+    "player_number": "85",
+    "team": "caviar://team_0005"
+  },
+  "player_0070": {
+    "id": "0070",
+    "first_name": "Colt",
+    "last_name": "Kihn",
+    "shots": "652",
+    "goals": "40",
+    "player_number": "41",
+    "team": "caviar://team_0005"
+  },
+  "player_0071": {
+    "id": "0071",
+    "first_name": "Jaylon",
+    "last_name": "Klocko",
+    "shots": "752",
+    "goals": "03",
+    "player_number": "00",
+    "team": "caviar://team_0005"
+  },
+  "player_0072": {
+    "id": "0072",
+    "first_name": "Devan",
+    "last_name": "Littel",
+    "shots": "994",
+    "goals": "21",
+    "player_number": "10",
+    "team": "caviar://team_0005"
+  },
+  "player_0073": {
+    "id": "0073",
+    "first_name": "Newton",
+    "last_name": "Collins",
+    "shots": "718",
+    "goals": "43",
+    "player_number": "44",
+    "team": "caviar://team_0005"
+  },
+  "player_0074": {
+    "id": "0074",
+    "first_name": "Isadore",
+    "last_name": "Sawayn",
+    "shots": "588",
+    "goals": "88",
+    "player_number": "85",
+    "team": "caviar://team_0005"
+  },
+  "player_0075": {
+    "id": "0075",
+    "first_name": "Travon",
+    "last_name": "Hauck",
+    "shots": "358",
+    "goals": "12",
+    "player_number": "34",
+    "team": "caviar://team_0005"
+  },
+  "player_0076": {
+    "id": "0076",
+    "first_name": "Darrin",
+    "last_name": "Grimes",
+    "shots": "098",
+    "goals": "66",
+    "player_number": "33",
+    "team": "caviar://team_0006"
+  },
+  "player_0077": {
+    "id": "0077",
+    "first_name": "Jerrod",
+    "last_name": "Johnson",
+    "shots": "260",
+    "goals": "17",
+    "player_number": "11",
+    "team": "caviar://team_0006"
+  },
+  "player_0078": {
+    "id": "0078",
+    "first_name": "Danial",
+    "last_name": "Rau",
+    "shots": "983",
+    "goals": "75",
+    "player_number": "49",
+    "team": "caviar://team_0006"
+  },
+  "player_0079": {
+    "id": "0079",
+    "first_name": "Maximillian",
+    "last_name": "Batz",
+    "shots": "516",
+    "goals": "47",
+    "player_number": "89",
+    "team": "caviar://team_0006"
+  },
+  "player_0080": {
+    "id": "0080",
+    "first_name": "Sophia",
+    "last_name": "Schuppe",
+    "shots": "178",
+    "goals": "50",
+    "player_number": "31",
+    "team": "caviar://team_0006"
+  },
+  "player_0081": {
+    "id": "0081",
+    "first_name": "Sonya",
+    "last_name": "Lakin",
+    "shots": "221",
+    "goals": "02",
+    "player_number": "88",
+    "team": "caviar://team_0006"
+  },
+  "player_0082": {
+    "id": "0082",
+    "first_name": "Lukas",
+    "last_name": "Effertz",
+    "shots": "490",
+    "goals": "25",
+    "player_number": "15",
+    "team": "caviar://team_0006"
+  },
+  "player_0083": {
+    "id": "0083",
+    "first_name": "Oda",
+    "last_name": "Gutmann",
+    "shots": "330",
+    "goals": "54",
+    "player_number": "67",
+    "team": "caviar://team_0006"
+  },
+  "player_0084": {
+    "id": "0084",
+    "first_name": "Germaine",
+    "last_name": "Gislason",
+    "shots": "409",
+    "goals": "80",
+    "player_number": "04",
+    "team": "caviar://team_0006"
+  },
+  "player_0085": {
+    "id": "0085",
+    "first_name": "Vincenzo",
+    "last_name": "Ratke",
+    "shots": "974",
+    "goals": "76",
+    "player_number": "53",
+    "team": "caviar://team_0006"
+  },
+  "player_0086": {
+    "id": "0086",
+    "first_name": "Jovany",
+    "last_name": "Feil",
+    "shots": "245",
+    "goals": "23",
+    "player_number": "61",
+    "team": "caviar://team_0006"
+  },
+  "player_0087": {
+    "id": "0087",
+    "first_name": "Travis",
+    "last_name": "Hartmann",
+    "shots": "209",
+    "goals": "88",
+    "player_number": "25",
+    "team": "caviar://team_0006"
+  },
+  "player_0088": {
+    "id": "0088",
+    "first_name": "Harry",
+    "last_name": "Walker",
+    "shots": "249",
+    "goals": "73",
+    "player_number": "80",
+    "team": "caviar://team_0006"
+  },
+  "player_0089": {
+    "id": "0089",
+    "first_name": "Arnold",
+    "last_name": "Hoppe",
+    "shots": "106",
+    "goals": "56",
+    "player_number": "66",
+    "team": "caviar://team_0006"
+  },
+  "player_0090": {
+    "id": "0090",
+    "first_name": "Molly",
+    "last_name": "Cremin",
+    "shots": "105",
+    "goals": "59",
+    "player_number": "28",
+    "team": "caviar://team_0006"
+  },
+  "player_0091": {
+    "id": "0091",
+    "first_name": "Kailyn",
+    "last_name": "Stiedemann",
+    "shots": "016",
+    "goals": "14",
+    "player_number": "31",
+    "team": "caviar://team_0007"
+  },
+  "player_0092": {
+    "id": "0092",
+    "first_name": "Norberto",
+    "last_name": "Jerde",
+    "shots": "455",
+    "goals": "05",
+    "player_number": "53",
+    "team": "caviar://team_0007"
+  },
+  "player_0093": {
+    "id": "0093",
+    "first_name": "Raphael",
+    "last_name": "Schaefer",
+    "shots": "869",
+    "goals": "32",
+    "player_number": "92",
+    "team": "caviar://team_0007"
+  },
+  "player_0094": {
+    "id": "0094",
+    "first_name": "Edmund",
+    "last_name": "Stanton",
+    "shots": "989",
+    "goals": "97",
+    "player_number": "83",
+    "team": "caviar://team_0007"
+  },
+  "player_0095": {
+    "id": "0095",
+    "first_name": "Nickolas",
+    "last_name": "Kovacek",
+    "shots": "287",
+    "goals": "63",
+    "player_number": "12",
+    "team": "caviar://team_0007"
+  },
+  "player_0096": {
+    "id": "0096",
+    "first_name": "Elmore",
+    "last_name": "Wehner",
+    "shots": "965",
+    "goals": "71",
+    "player_number": "98",
+    "team": "caviar://team_0007"
+  },
+  "player_0097": {
+    "id": "0097",
+    "first_name": "Lexi",
+    "last_name": "Schoen",
+    "shots": "134",
+    "goals": "52",
+    "player_number": "69",
+    "team": "caviar://team_0007"
+  },
+  "player_0098": {
+    "id": "0098",
+    "first_name": "Moses",
+    "last_name": "Kutch",
+    "shots": "095",
+    "goals": "22",
+    "player_number": "47",
+    "team": "caviar://team_0007"
+  },
+  "player_0099": {
+    "id": "0099",
+    "first_name": "Jon",
+    "last_name": "Corkery",
+    "shots": "566",
+    "goals": "78",
+    "player_number": "62",
+    "team": "caviar://team_0007"
+  },
+  "player_0100": {
+    "id": "0100",
+    "first_name": "Ursula",
+    "last_name": "Stehr",
+    "shots": "221",
+    "goals": "79",
+    "player_number": "32",
+    "team": "caviar://team_0007"
+  },
+  "player_0101": {
+    "id": "0101",
+    "first_name": "Gordon",
+    "last_name": "McCullough",
+    "shots": "646",
+    "goals": "24",
+    "player_number": "23",
+    "team": "caviar://team_0007"
+  },
+  "player_0102": {
+    "id": "0102",
+    "first_name": "Frank",
+    "last_name": "Senger",
+    "shots": "960",
+    "goals": "98",
+    "player_number": "28",
+    "team": "caviar://team_0007"
+  },
+  "player_0103": {
+    "id": "0103",
+    "first_name": "Zelda",
+    "last_name": "Lind",
+    "shots": "930",
+    "goals": "42",
+    "player_number": "99",
+    "team": "caviar://team_0007"
+  },
+  "player_0104": {
+    "id": "0104",
+    "first_name": "Fredy",
+    "last_name": "Daniel",
+    "shots": "054",
+    "goals": "55",
+    "player_number": "84",
+    "team": "caviar://team_0007"
+  },
+  "player_0105": {
+    "id": "0105",
+    "first_name": "Felix",
+    "last_name": "Huels",
+    "shots": "126",
+    "goals": "42",
+    "player_number": "83",
+    "team": "caviar://team_0007"
+  },
+  "player_0106": {
+    "id": "0106",
+    "first_name": "Maeve",
+    "last_name": "McClure",
+    "shots": "465",
+    "goals": "27",
+    "player_number": "75",
+    "team": "caviar://team_0008"
+  },
+  "player_0107": {
+    "id": "0107",
+    "first_name": "Neal",
+    "last_name": "Beahan",
+    "shots": "999",
+    "goals": "04",
+    "player_number": "74",
+    "team": "caviar://team_0008"
+  },
+  "player_0108": {
+    "id": "0108",
+    "first_name": "Ibrahim",
+    "last_name": "Cronin",
+    "shots": "885",
+    "goals": "63",
+    "player_number": "57",
+    "team": "caviar://team_0008"
+  },
+  "player_0109": {
+    "id": "0109",
+    "first_name": "Felix",
+    "last_name": "McGlynn",
+    "shots": "390",
+    "goals": "74",
+    "player_number": "12",
+    "team": "caviar://team_0008"
+  },
+  "player_0110": {
+    "id": "0110",
+    "first_name": "Drake",
+    "last_name": "Franecki",
+    "shots": "020",
+    "goals": "28",
+    "player_number": "96",
+    "team": "caviar://team_0008"
+  },
+  "player_0111": {
+    "id": "0111",
+    "first_name": "Gwendolyn",
+    "last_name": "Bartell",
+    "shots": "637",
+    "goals": "31",
+    "player_number": "56",
+    "team": "caviar://team_0008"
+  },
+  "player_0112": {
+    "id": "0112",
+    "first_name": "Okey",
+    "last_name": "Kautzer",
+    "shots": "502",
+    "goals": "74",
+    "player_number": "21",
+    "team": "caviar://team_0008"
+  },
+  "player_0113": {
+    "id": "0113",
+    "first_name": "Judy",
+    "last_name": "Wyman",
+    "shots": "141",
+    "goals": "04",
+    "player_number": "52",
+    "team": "caviar://team_0008"
+  },
+  "player_0114": {
+    "id": "0114",
+    "first_name": "Jewel",
+    "last_name": "Dooley",
+    "shots": "959",
+    "goals": "67",
+    "player_number": "66",
+    "team": "caviar://team_0008"
+  },
+  "player_0115": {
+    "id": "0115",
+    "first_name": "Quinn",
+    "last_name": "Crist",
+    "shots": "151",
+    "goals": "30",
+    "player_number": "85",
+    "team": "caviar://team_0008"
+  },
+  "player_0116": {
+    "id": "0116",
+    "first_name": "Macey",
+    "last_name": "Rath",
+    "shots": "131",
+    "goals": "90",
+    "player_number": "26",
+    "team": "caviar://team_0008"
+  },
+  "player_0117": {
+    "id": "0117",
+    "first_name": "Brian",
+    "last_name": "McCullough",
+    "shots": "501",
+    "goals": "66",
+    "player_number": "51",
+    "team": "caviar://team_0008"
+  },
+  "player_0118": {
+    "id": "0118",
+    "first_name": "Orin",
+    "last_name": "Schinner",
+    "shots": "800",
+    "goals": "71",
+    "player_number": "84",
+    "team": "caviar://team_0008"
+  },
+  "player_0119": {
+    "id": "0119",
+    "first_name": "Keeley",
+    "last_name": "Kessler",
+    "shots": "518",
+    "goals": "86",
+    "player_number": "00",
+    "team": "caviar://team_0008"
+  },
+  "player_0120": {
+    "id": "0120",
+    "first_name": "Sonny",
+    "last_name": "Russel",
+    "shots": "187",
+    "goals": "03",
+    "player_number": "90",
+    "team": "caviar://team_0008"
+  },
+  "player_0121": {
+    "id": "0121",
+    "first_name": "Rosemarie",
+    "last_name": "Braun",
+    "shots": "192",
+    "goals": "34",
+    "player_number": "61",
+    "team": "caviar://team_0009"
+  },
+  "player_0122": {
+    "id": "0122",
+    "first_name": "Sammy",
+    "last_name": "Hegmann",
+    "shots": "360",
+    "goals": "84",
+    "player_number": "58",
+    "team": "caviar://team_0009"
+  },
+  "player_0123": {
+    "id": "0123",
+    "first_name": "Sonya",
+    "last_name": "Roberts",
+    "shots": "213",
+    "goals": "21",
+    "player_number": "80",
+    "team": "caviar://team_0009"
+  },
+  "player_0124": {
+    "id": "0124",
+    "first_name": "Keshawn",
+    "last_name": "Bernhard",
+    "shots": "073",
+    "goals": "91",
+    "player_number": "27",
+    "team": "caviar://team_0009"
+  },
+  "player_0125": {
+    "id": "0125",
+    "first_name": "Preston",
+    "last_name": "Larkin",
+    "shots": "230",
+    "goals": "82",
+    "player_number": "02",
+    "team": "caviar://team_0009"
+  },
+  "player_0126": {
+    "id": "0126",
+    "first_name": "Morton",
+    "last_name": "Morissette",
+    "shots": "820",
+    "goals": "67",
+    "player_number": "59",
+    "team": "caviar://team_0009"
+  },
+  "player_0127": {
+    "id": "0127",
+    "first_name": "Thalia",
+    "last_name": "Stark",
+    "shots": "776",
+    "goals": "85",
+    "player_number": "52",
+    "team": "caviar://team_0009"
+  },
+  "player_0128": {
+    "id": "0128",
+    "first_name": "Enrico",
+    "last_name": "Quitzon",
+    "shots": "997",
+    "goals": "47",
+    "player_number": "48",
+    "team": "caviar://team_0009"
+  },
+  "player_0129": {
+    "id": "0129",
+    "first_name": "Kelli",
+    "last_name": "Runolfsdottir",
+    "shots": "602",
+    "goals": "38",
+    "player_number": "38",
+    "team": "caviar://team_0009"
+  },
+  "player_0130": {
+    "id": "0130",
+    "first_name": "Lexie",
+    "last_name": "Welch",
+    "shots": "746",
+    "goals": "19",
+    "player_number": "01",
+    "team": "caviar://team_0009"
+  },
+  "player_0131": {
+    "id": "0131",
+    "first_name": "Zackery",
+    "last_name": "Purdy",
+    "shots": "915",
+    "goals": "58",
+    "player_number": "56",
+    "team": "caviar://team_0009"
+  },
+  "player_0132": {
+    "id": "0132",
+    "first_name": "Jackson",
+    "last_name": "Klein",
+    "shots": "476",
+    "goals": "84",
+    "player_number": "57",
+    "team": "caviar://team_0009"
+  },
+  "player_0133": {
+    "id": "0133",
+    "first_name": "Esmeralda",
+    "last_name": "Kiehn",
+    "shots": "390",
+    "goals": "60",
+    "player_number": "64",
+    "team": "caviar://team_0009"
+  },
+  "player_0134": {
+    "id": "0134",
+    "first_name": "Carlotta",
+    "last_name": "Cronin",
+    "shots": "036",
+    "goals": "22",
+    "player_number": "80",
+    "team": "caviar://team_0009"
+  },
+  "player_0135": {
+    "id": "0135",
+    "first_name": "Shyann",
+    "last_name": "Borer",
+    "shots": "174",
+    "goals": "07",
+    "player_number": "46",
+    "team": "caviar://team_0009"
+  },
+  "player_0136": {
+    "id": "0136",
+    "first_name": "Joaquin",
+    "last_name": "Swift",
+    "shots": "219",
+    "goals": "64",
+    "player_number": "13",
+    "team": "caviar://team_0010"
+  },
+  "player_0137": {
+    "id": "0137",
+    "first_name": "Reinhold",
+    "last_name": "Predovic",
+    "shots": "608",
+    "goals": "99",
+    "player_number": "73",
+    "team": "caviar://team_0010"
+  },
+  "player_0138": {
+    "id": "0138",
+    "first_name": "Aileen",
+    "last_name": "Witting",
+    "shots": "331",
+    "goals": "35",
+    "player_number": "06",
+    "team": "caviar://team_0010"
+  },
+  "player_0139": {
+    "id": "0139",
+    "first_name": "Shanel",
+    "last_name": "Swaniawski",
+    "shots": "033",
+    "goals": "65",
+    "player_number": "25",
+    "team": "caviar://team_0010"
+  },
+  "player_0140": {
+    "id": "0140",
+    "first_name": "Alexander",
+    "last_name": "Halvorson",
+    "shots": "416",
+    "goals": "18",
+    "player_number": "31",
+    "team": "caviar://team_0010"
+  },
+  "player_0141": {
+    "id": "0141",
+    "first_name": "Rebekah",
+    "last_name": "Goldner",
+    "shots": "209",
+    "goals": "19",
+    "player_number": "80",
+    "team": "caviar://team_0010"
+  },
+  "player_0142": {
+    "id": "0142",
+    "first_name": "Abigayle",
+    "last_name": "Weimann",
+    "shots": "261",
+    "goals": "49",
+    "player_number": "64",
+    "team": "caviar://team_0010"
+  },
+  "player_0143": {
+    "id": "0143",
+    "first_name": "Margaretta",
+    "last_name": "Rodriguez",
+    "shots": "349",
+    "goals": "78",
+    "player_number": "58",
+    "team": "caviar://team_0010"
+  },
+  "player_0144": {
+    "id": "0144",
+    "first_name": "Linnea",
+    "last_name": "Heller",
+    "shots": "601",
+    "goals": "88",
+    "player_number": "22",
+    "team": "caviar://team_0010"
+  },
+  "player_0145": {
+    "id": "0145",
+    "first_name": "Hilton",
+    "last_name": "Huels",
+    "shots": "403",
+    "goals": "36",
+    "player_number": "31",
+    "team": "caviar://team_0010"
+  },
+  "player_0146": {
+    "id": "0146",
+    "first_name": "Lon",
+    "last_name": "Hettinger",
+    "shots": "053",
+    "goals": "97",
+    "player_number": "09",
+    "team": "caviar://team_0010"
+  },
+  "player_0147": {
+    "id": "0147",
+    "first_name": "Alvis",
+    "last_name": "Barton",
+    "shots": "077",
+    "goals": "56",
+    "player_number": "48",
+    "team": "caviar://team_0010"
+  },
+  "player_0148": {
+    "id": "0148",
+    "first_name": "Josiane",
+    "last_name": "Hintz",
+    "shots": "109",
+    "goals": "61",
+    "player_number": "67",
+    "team": "caviar://team_0010"
+  },
+  "player_0149": {
+    "id": "0149",
+    "first_name": "Dortha",
+    "last_name": "Reichert",
+    "shots": "737",
+    "goals": "43",
+    "player_number": "50",
+    "team": "caviar://team_0010"
+  },
+  "player_0150": {
+    "id": "0150",
+    "first_name": "Jailyn",
+    "last_name": "Kessler",
+    "shots": "730",
+    "goals": "29",
+    "player_number": "03",
+    "team": "caviar://team_0010"
+  }
+}
